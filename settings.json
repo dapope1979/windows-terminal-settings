@@ -28,7 +28,7 @@
         "defaults":
         {
             // Put settings here that you want to apply to all profiles.
-            "fontFace": "CaskaydiaCove Nerd Font",
+            "fontFace": "JetBrainsMono Nerd Font",
             "fontSize": 10,
             "colorScheme" : "Brogrammer"
         },
